@@ -412,8 +412,8 @@ main {
     }
 
     .nombrecito {
-        width: 40%;
-        padding-top: 10%;
+       
+       
         justify-content: center;
     }
 }
@@ -421,16 +421,17 @@ main {
 @media (max-width: 600px) {
 
     .parte1 {
-        width: 60%;
+        width: 80%;
         background-color: #99A3A4;
     }
 
     .padre2 {
-        width: 50%;
+       background-color: #1E172F;
+
     }
 
     .nombrecito {
-        width: 70%;
+        width: 65%;
         justify-content: center;
         margin-top: 50%;
     }
@@ -440,7 +441,7 @@ main {
         display: block;
         justify-content: center;
         padding-left: 5%;
-        padding-right: 10%;
+        padding-right: 2%;
         padding-bottom: 5%;
         padding-top: 5%;
         background-color: #2C3E50;
@@ -503,4 +504,13 @@ main {
     }body{
         width: 105%;
     }
+
+    .cl{
+        display: none;
+    }
+    
+    .flechitas{
+        width: 75%;
+    }
+
 }
