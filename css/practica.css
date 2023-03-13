@@ -474,6 +474,7 @@ main {
         width: 100%;
         justify-content: center;
         padding-top: 8%;
+       
     }
 
     .nose {
@@ -496,13 +497,13 @@ main {
     }
 
     .d {
-        justify-content: center;
+        
     }
 
     h2 {
         color: #1E172F;
     }body{
-        width: 110%;
+        width: 100%;
     }
 
     .cl{
@@ -511,6 +512,12 @@ main {
     
     .flechitas{
         width: 75%;
+    }img{
+        width: 96%;
+        padding-left: 2%;
+    }.contenido1{
+        width: 10%;
+        margin-left: 2%;
     }
 
 }
